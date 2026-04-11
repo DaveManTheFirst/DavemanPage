@@ -1,5 +1,5 @@
 # DavemanPage
-This is supposed to be my homepage but the i was threatend at gunpoint to make it about my girlfriends cat
+This is supposed to be my homepage but, I was threatened at gunpoint to make it about my girlfriend's cat
 
 ## Hosting
 The website is hosted via [AWS S3](http://bcn-demo-bucket-daveman.s3-website.eu-central-1.amazonaws.com/) for a uni project. A [shortened URL](https://t1p.de/davemanpage) was also created in this project.
