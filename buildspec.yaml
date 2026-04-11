@@ -23,7 +23,7 @@ phases:
       # - command
   post_build:
     commands:
-       - aws s3 sync . s3://bcn-demo-bucket-daveman --exclude .gitignore --exclude buildspec.yml --exclude .git/ --exclude LICENSE --exclude README.md
+       - aws s3 sync ./webroot/ s3://bcn-demo-bucket-daveman
       # - command
 #artifacts:
   #files:
