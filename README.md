@@ -1,5 +1,5 @@
 # DavemanPage
-This is supposed to be my homepage but, I was threatened at gunpoint to make it about my girlfriend's cat
+This is supposed to be my homepage but, I was threatened at gunpoint to make it about my girlfriend's cat.
 
 ## Hosting
 The website is now hosted via AWS S3 and AWS CloudFront for a uni project. A [shortened URL](https://3x7.de/davemanpage) was also created in this project.
