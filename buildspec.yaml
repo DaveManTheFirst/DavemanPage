@@ -24,6 +24,7 @@ phases:
   post_build:
     commands:
        - aws s3 sync ./webroot/ s3://bcn-demo-bucket-daveman
+       - aws cloudfront create-invalidation --distribution-id EPSOK0VBCP3JO --paths "/*"
       # - command
 #artifacts:
   #files:
